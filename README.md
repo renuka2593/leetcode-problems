@@ -6,4 +6,4 @@ Welcome to my repository of solutions to various LeetCode problems! This reposit
 
 * Roman to Integer
 * Valid Palindrome
-* Palindrome Number (Problem Link)
+* Valid Palindrome Number
